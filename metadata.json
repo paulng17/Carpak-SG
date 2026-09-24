@@ -1,0 +1,8 @@
+{
+  "name": "Remix ParkSG - Smart Urban Mobility \u0026 Parking Intelligence",
+  "description": "Real-time Singapore carpark availability, dynamic tariffs, EV fast charger status, and ERP gantry navigation powered by live LTA \u0026 URA data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
