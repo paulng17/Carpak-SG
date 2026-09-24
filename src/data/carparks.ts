@@ -35,6 +35,9 @@ export interface Carpark {
   etaMin: number;
   status: 'optimal' | 'moderate' | 'almost-full';
   ltaVerified: boolean;
+  hasLiveLots?: boolean;
+  ltaCarParkId?: string;
+  lastUpdatedTime?: string;
   evSummary: {
     operator: string;
     locationDetail: string;
